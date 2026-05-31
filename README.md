@@ -1,25 +1,29 @@
-## Marlon Gonzalez
+# Marlon Gonzalez
 
-18-year-old it-specialist based in Germany 
+18-year-old IT specialist based in Germany.
 
-Currently working as a Trainee in the CloudsysOps Administrator Department
+Currently working as a Cloud SysOps Administrator Apprentice.
 
-Currently working on transfering my projects in GitHub
+Passionate about cybersecurity, system administration, infrastructure engineering, and continuous learning.
 
+Currently documenting projects and building my public GitHub portfolio.
+
+---
 
 ## Interests
 
 - Linux
-- CyberSecurity
-- SysOps
+- Cybersecurity
+- Cloud Infrastructure
 - Automation
 - AWS
 
-## Currently Learning / Building 
+---
 
+## Currently Learning / Building
 
 - Python Backend Development
-- Studying for upcomming exams
+- AWS & Networking
+- Personal Homelab Projects
 
-
-Contact: https://www.linkedin.com/in/marlon-gonzalez-b295462b1/?skipRedirect=true
+Contact: [LinkedIn](https://www.linkedin.com/in/marlon-gonzalez-b295462b1/)
