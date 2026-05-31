@@ -1,16 +1,25 @@
-## Hi there 👋
+## Marlon Gonzalez
 
-<!--
-**Gonzo-07/Gonzo-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18-year-old it-specialist based in Germany 
 
-Here are some ideas to get you started:
+Currently working as a Trainee in the CloudsysOps Administrator Department
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on transfering my projects in GitHub
+
+
+## Interests
+
+- Linux
+- CyberSecurity
+- SysOps
+- Automation
+- AWS
+
+## Currently Learning / Building 
+
+
+- Python Backend Development
+- Studying for upcomming exams
+
+
+Contact: https://www.linkedin.com/in/marlon-gonzalez-b295462b1/?skipRedirect=true
