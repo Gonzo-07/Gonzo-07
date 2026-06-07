@@ -6,8 +6,6 @@ Currently working as a Cloud SysOps Administrator Apprentice.
 
 Passionate about cybersecurity, system administration, infrastructure engineering, and continuous learning.
 
-Currently documenting projects and building my public GitHub portfolio.
-
 ---
 
 ## Interests
