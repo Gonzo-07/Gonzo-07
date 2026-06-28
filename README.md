@@ -29,4 +29,3 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 - [Homelab Web Infrastructure](https://github.com/Gonzo-07/homelab-web-infrastructure)  
   Browser-based Linux learning environment built on Proxmox using Nginx, Docker, Apache Guacamole, Cloudflare Tunnel, and MkDocs.
 
-Contact: [LinkedIn](https://www.linkedin.com/in/marlon-gonzalez-b295462b1/)
