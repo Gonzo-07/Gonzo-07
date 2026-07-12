@@ -25,12 +25,21 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 - Personal Homelab Projects
 - Active Directory Lab
 
-## Featured Project
+---
+
+## Featured Projects
 
 - [Homelab Web Infrastructure](https://github.com/Gonzo-07/homelab-web-infrastructure)  
   Browser-based Linux learning environment built on Proxmox using Nginx, Docker, Apache Guacamole, Cloudflare Tunnel, and MkDocs.
+
+---
 
 ## Boot.dev stats
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/76b67432-fd62-410c-bb0f-567a4732b88a/thumbnail" >
 </p>
+
+---
+
+## Note
+**My .md pages are AI-assisted. I prioritize my time on the actual project and the real step-by-step documentation over polishing the README.**
