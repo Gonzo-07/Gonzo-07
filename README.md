@@ -23,6 +23,7 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 - Python Backend Development
 - AWS & Networking
 - Personal Homelab Projects
+- Active Directory Lab
 
 ## Featured Project
 
