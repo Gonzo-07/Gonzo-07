@@ -2,7 +2,7 @@
 
 18-year-old IT specialist based in Germany.
 
-Currently working as a Cloud SysOps Administrator Apprentice.
+Currently working as a Cloud SysOps Administrator.
 
 Passionate about cybersecurity, system administration, infrastructure engineering, and continuous learning.
 
