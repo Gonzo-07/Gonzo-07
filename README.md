@@ -1,6 +1,6 @@
 # Marlon
 
-18-year-old IT specialist based in Germany near munich.
+18-year-old IT specialist based in Germany near Munich.
 
 Currently working as a Cloud SysOps Administrator.
 
@@ -27,13 +27,12 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 - Cybersecurity
 - Cloud Infrastructure
 - Automation
-- AWS
 
 ---
 
 ## Currently Learning / Building
 
-- Python Backend Development
+- Python / Scripting & Automation
 - AWS & Networking
 - Personal Homelab Projects
 - Active Directory Lab
