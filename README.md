@@ -54,4 +54,4 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 ---
 
 ## Note
-**My .md pages are AI-assisted. I prioritize my time on the actual project and the real step-by-step documentation over polishing the README.**
+**I use AI to assist with structuring and polishing my Markdown documentation. The projects, implementation, and documented processes are my own work.**
