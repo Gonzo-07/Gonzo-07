@@ -16,6 +16,7 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-1868DB?style=for-the-badge&logo=confluence&logoColor=white)
 ---
 
 ## Interests
