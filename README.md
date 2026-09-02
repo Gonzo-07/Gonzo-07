@@ -51,7 +51,3 @@ Passionate about cybersecurity, system administration, infrastructure engineerin
   <img src="https://api.boot.dev/v1/users/public/76b67432-fd62-410c-bb0f-567a4732b88a/thumbnail" >
 </p>
 
----
-
-## Note
-**I use AI to assist with structuring and polishing my Markdown documentation. The projects, implementation, and documented processes are my own work.**
