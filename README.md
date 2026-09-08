@@ -2,7 +2,12 @@
 
 18-year-old IT specialist based in Germany near Munich.
 
-Currently working as a Cloud SysOps Administrator.
+Currently working as a Cyber-Security Specialist.
+
+Past working experience:
+1. Cloud SysOps Administrator (Cloud Operations) 
+2. Systems Engineer (Customer Systems
+3. Systems Engineer (HelpDesk)
 
 Passionate about cybersecurity, system administration, infrastructure engineering, and continuous learning.
 
