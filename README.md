@@ -6,7 +6,7 @@ Currently working as a Cyber-Security Specialist.
 
 Past working experience:
 1. Cloud SysOps Administrator (Cloud Operations) 
-2. Systems Engineer (Customer Systems
+2. Systems Engineer (Customer Systems)
 3. Systems Engineer (HelpDesk)
 
 Passionate about cybersecurity, system administration, infrastructure engineering, and continuous learning.
